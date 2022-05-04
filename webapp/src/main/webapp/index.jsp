@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Tomcat Valaxy Tech !!! </h1>
+<h1> Hello, Welcome to Tomcat Valaxy Techno !!! </h1>
 
