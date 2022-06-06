@@ -1,5 +1,5 @@
 # Pull base image 
-From https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.79/bin/apache-tomcat-8.5.79.tar.gz
+From tomcat:9.0
 
 # Maintainer 
 MAINTAINER "nagaveni5951@gmail.com" 
